@@ -3,4 +3,4 @@
 
 ### 走马灯组件
 
-[Carousel轮播组件](https://wangxiaozhan.github.io/wheel-carousel/Caousel/carousel.html)
+[Carousel轮播组件](https://wangxiaozhan.github.io/wheel-carousel/Carousel/carousel.html)
